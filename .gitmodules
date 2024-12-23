@@ -1,0 +1,3 @@
+[submodule "wordosity"]
+	path = wordosity
+	url = https://github.com/livmap/Word-Games.git
